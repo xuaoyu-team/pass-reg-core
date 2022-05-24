@@ -213,8 +213,7 @@ public final class AESTool {
 	 */
 	private AESTool() {
 		// NOOOP
-		// 什么也不做
-		return;
+		
 	}
 
 
